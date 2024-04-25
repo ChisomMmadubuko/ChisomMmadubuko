@@ -1,3 +1,3 @@
 ### Hello!
-I'm Franklin, a software developer and technical writer living in Portharcout, Nigeria.
+I'm Franklin, a software developer and technical writer living in Port Harcourt, Nigeria.
 
